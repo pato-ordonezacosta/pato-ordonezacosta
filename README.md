@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Patricio but go by Pato 👋
+
+Studying Bioengineering with a Mechanical Focus at the University of California San Diego (UCSD)<br/>
+I program for fun but also to find ways to implement AI into Biotech and other industries.<br/> 
+<br/>
 
 <!--
 **pato-ordonezacosta/pato-ordonezacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
